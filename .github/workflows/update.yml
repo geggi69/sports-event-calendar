@@ -21,7 +21,11 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - run: python generate_calendar.py
+- name: Generate calendar
+  env:
+    RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+  run: python generate_calendar.py
+  
 
       - run: |
           git config --global user.name "github-actions"
