@@ -30,7 +30,8 @@ for team in TEAMS:
 
     response.raise_for_status()
 
-    events = response.json()["events"]
+    data = response.json()
+    events = data["events"]
 
     for match in events:
 
@@ -55,4 +56,14 @@ for team in TEAMS:
         event.duration = timedelta(hours=2)
 
         event.description = (
-   
+            f"Competition: {competition}\n"
+            f"Match: {home} vs {away}\n"
+            f"https://www.sofascore.com/{match['slug']}/{match['id']}"
+        )
+
+        calendar.events.add(event)
+
+with open("sports.ics", "w", encoding="utf-8") as file:
+    file.writelines(calendar)
+
+print(f"Generated {len(calendar.events)} events")
