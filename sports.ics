@@ -2,11 +2,25 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: Udinese vs SSC Napoli\nhttps://www.sofascore.com/ssc-napoli-udinese/16285167
+DURATION:PT2H
+DTSTART:20270109T130000Z
+SUMMARY:[Serie A] Udinese vs SSC Napoli
+UID:16285167
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nMatch: Nutribullet Treviso Basket vs Napoli Basket\nhttps://www.sofascore.com/guerri-napoli-basketball-nutribullet-treviso-basket/16722436
 DURATION:PT2H
 DTSTART:20270110T180000Z
 SUMMARY:[Lega A Basket] Nutribullet Treviso Basket vs Napoli Basket
 UID:16722436
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: SSC Napoli vs Frosinone\nhttps://www.sofascore.com/frosinone-ssc-napoli/16285036
+DURATION:PT2H
+DTSTART:20261010T184500Z
+SUMMARY:[Serie A] SSC Napoli vs Frosinone
+UID:16285036
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nMatch: Napoli Basket vs Openjobmetis Varese\nhttps://www.sofascore.com/guerri-napoli-basketball-openjobmetis-varese/16722438
@@ -21,6 +35,20 @@ DURATION:PT2H
 DTSTART:20261115T160000Z
 SUMMARY:[Lega A Basket] Napoli Basket vs Pallacanestro Trieste
 UID:16722501
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: SSC Napoli vs Lazio\nhttps://www.sofascore.com/ssc-napoli-lazio/16285083
+DURATION:PT2H
+DTSTART:20261108T113000Z
+SUMMARY:[Serie A] SSC Napoli vs Lazio
+UID:16285083
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: Sassuolo vs SSC Napoli\nhttps://www.sofascore.com/sassuolo-ssc-napoli/16285104
+DURATION:PT2H
+DTSTART:20261129T140000Z
+SUMMARY:[Serie A] Sassuolo vs SSC Napoli
+UID:16285104
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nMatch: Napoli Basket vs Umana Reyer Venezia\nhttps://www.sofascore.com/guerri-napoli-basketball-umana-reyer-venezia/16722486
@@ -44,6 +72,13 @@ SUMMARY:[Eurocup] JL Bourg Basket vs Napoli Basket
 UID:16561708
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: SSC Napoli vs Cagliari\nhttps://www.sofascore.com/cagliari-ssc-napoli/16285152
+DURATION:PT2H
+DTSTART:20270105T130000Z
+SUMMARY:[Serie A] SSC Napoli vs Cagliari
+UID:16285152
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nMatch: Napoli Basket vs Maxima Roma\nhttps://www.sofascore.com/maxima-roma-guerri-napoli-basketball/16722553
 DURATION:PT2H
 DTSTART:20270207T180000Z
@@ -65,11 +100,25 @@ SUMMARY:[Lega A Basket] Napoli Basket vs Virtus Bologna
 UID:16722420
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: SSC Napoli vs Parma\nhttps://www.sofascore.com/ssc-napoli-parma/16285222
+DURATION:PT2H
+DTSTART:20270306T130000Z
+SUMMARY:[Serie A] SSC Napoli vs Parma
+UID:16285222
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Competition: Eurocup\nMatch: Śląsk Wrocław vs Napoli Basket\nhttps://www.sofascore.com/guerri-napoli-basketball-slask-wroclaw/16561625
 DURATION:PT2H
 DTSTART:20261014T170000Z
 SUMMARY:[Eurocup] Śląsk Wrocław vs Napoli Basket
 UID:16561625
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: SSC Napoli vs Juventus\nhttps://www.sofascore.com/ssc-napoli-juventus/16283227
+DURATION:PT2H
+DTSTART:20270213T130000Z
+SUMMARY:[Serie A] SSC Napoli vs Juventus
+UID:16283227
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nMatch: Napoli Basket vs EA7 Emporio Armani Milano\nhttps://www.sofascore.com/guerri-napoli-basketball-ea7-emporio-armani-milano/16722472
@@ -91,6 +140,27 @@ DURATION:PT2H
 DTSTART:20261103T190000Z
 SUMMARY:[Eurocup] Napoli Basket vs Dolomiti Energia Trento
 UID:16561675
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: Frosinone vs SSC Napoli\nhttps://www.sofascore.com/frosinone-ssc-napoli/16285276
+DURATION:PT2H
+DTSTART:20270227T130000Z
+SUMMARY:[Serie A] Frosinone vs SSC Napoli
+UID:16285276
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: Monza vs SSC Napoli\nhttps://www.sofascore.com/monza-ssc-napoli/16285079
+DURATION:PT2H
+DTSTART:20261028T194500Z
+SUMMARY:[Serie A] Monza vs SSC Napoli
+UID:16285079
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: Parma vs SSC Napoli\nhttps://www.sofascore.com/ssc-napoli-parma/16285144
+DURATION:PT2H
+DTSTART:20270103T170000Z
+SUMMARY:[Serie A] Parma vs SSC Napoli
+UID:16285144
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nMatch: Napoli Basket vs Givova Scafati\nhttps://www.sofascore.com/guerri-napoli-basketball-givova-scafati/16722545
@@ -128,11 +198,32 @@ SUMMARY:[Lega A Basket] BC Roma vs Napoli Basket
 UID:16722594
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Competition: UEFA Champions League\nMatch: Sabah FK vs SSC Napoli\nhttps://www.sofascore.com/sabah-fk-ssc-napoli/16939016
+DURATION:PT2H
+DTSTART:20270120T174500Z
+SUMMARY:[UEFA Champions League] Sabah FK vs SSC Napoli
+UID:16939016
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nMatch: Napoli Basket vs Bertram Derthona Tortona\nhttps://www.sofascore.com/guerri-napoli-basketball-bertram-derthona-tortona/16722460
 DURATION:PT2H
 DTSTART:20270124T180000Z
 SUMMARY:[Lega A Basket] Napoli Basket vs Bertram Derthona Tortona
 UID:16722460
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: Juventus vs SSC Napoli\nhttps://www.sofascore.com/ssc-napoli-juventus/16285067
+DURATION:PT2H
+DTSTART:20261101T194500Z
+SUMMARY:[Serie A] Juventus vs SSC Napoli
+UID:16285067
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Coppa Italia\nMatch: SSC Napoli vs Fiorentina\nhttps://www.sofascore.com/ssc-napoli-fiorentina/17107333
+DURATION:PT2H
+DTSTART:20261216T200000Z
+SUMMARY:[Coppa Italia] SSC Napoli vs Fiorentina
+UID:17107333
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Eurocup\nMatch: Napoli Basket vs Śląsk Wrocław\nhttps://www.sofascore.com/guerri-napoli-basketball-slask-wroclaw/16561738
@@ -142,11 +233,39 @@ SUMMARY:[Eurocup] Napoli Basket vs Śląsk Wrocław
 UID:16561738
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: Lazio vs SSC Napoli\nhttps://www.sofascore.com/ssc-napoli-lazio/16285200
+DURATION:PT2H
+DTSTART:20270220T130000Z
+SUMMARY:[Serie A] Lazio vs SSC Napoli
+UID:16285200
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: Como vs SSC Napoli\nhttps://www.sofascore.com/ssc-napoli-como/16285182
+DURATION:PT2H
+DTSTART:20270123T130000Z
+SUMMARY:[Serie A] Como vs SSC Napoli
+UID:16285182
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Competition: Eurocup\nMatch: Napoli Basket vs BV Chemnitz 99\nhttps://www.sofascore.com/guerri-napoli-basketball-bv-chemnitz-99/16561804
 DURATION:PT2H
 DTSTART:20270113T190000Z
 SUMMARY:[Eurocup] Napoli Basket vs BV Chemnitz 99
 UID:16561804
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: UEFA Champions League\nMatch: SSC Napoli vs Club Brugge KV\nhttps://www.sofascore.com/club-brugge-kv-ssc-napoli/16938986
+DURATION:PT2H
+DTSTART:20261208T200000Z
+SUMMARY:[UEFA Champions League] SSC Napoli vs Club Brugge KV
+UID:16938986
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: UEFA Champions League\nMatch: SSC Napoli vs Bodø/Glimt\nhttps://www.sofascore.com/ssc-napoli-bodoglimt/16938987
+DURATION:PT2H
+DTSTART:20261020T190000Z
+SUMMARY:[UEFA Champions League] SSC Napoli vs Bodø/Glimt
+UID:16938987
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Eurocup\nMatch: Dolomiti Energia Trento vs Napoli Basket\nhttps://www.sofascore.com/guerri-napoli-basketball-dolomiti-energia-trento/16561788
@@ -156,11 +275,53 @@ SUMMARY:[Eurocup] Dolomiti Energia Trento vs Napoli Basket
 UID:16561788
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Competition: UEFA Champions League\nMatch: SSC Napoli vs Viking FK\nhttps://www.sofascore.com/ssc-napoli-viking-fk/16938988
+DURATION:PT2H
+DTSTART:20270127T200000Z
+SUMMARY:[UEFA Champions League] SSC Napoli vs Viking FK
+UID:16938988
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: SSC Napoli vs Inter\nhttps://www.sofascore.com/ssc-napoli-inter/16283209
+DURATION:PT2H
+DTSTART:20270130T130000Z
+SUMMARY:[Serie A] SSC Napoli vs Inter
+UID:16283209
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: SSC Napoli vs AS Roma\nhttps://www.sofascore.com/ssc-napoli-as-roma/16285056
+DURATION:PT2H
+DTSTART:20261024T160000Z
+SUMMARY:[Serie A] SSC Napoli vs AS Roma
+UID:16285056
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: UEFA Champions League\nMatch: FC Porto vs SSC Napoli\nhttps://www.sofascore.com/fc-porto-ssc-napoli/16938856
+DURATION:PT2H
+DTSTART:20261104T200000Z
+SUMMARY:[UEFA Champions League] FC Porto vs SSC Napoli
+UID:16938856
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Competition: Eurocup\nMatch: Klaipėdos Neptūnas vs Napoli Basket\nhttps://www.sofascore.com/guerri-napoli-basketball-klaipedos-neptunas/16561658
 DURATION:PT2H
 DTSTART:20261028T170000Z
 SUMMARY:[Eurocup] Klaipėdos Neptūnas vs Napoli Basket
 UID:16561658
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: Lecce vs SSC Napoli\nhttps://www.sofascore.com/ssc-napoli-lecce/16283257
+DURATION:PT2H
+DTSTART:20270206T130000Z
+SUMMARY:[Serie A] Lecce vs SSC Napoli
+UID:16283257
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: UEFA Champions League\nMatch: Villarreal vs SSC Napoli\nhttps://www.sofascore.com/villarreal-ssc-napoli/16938924
+DURATION:PT2H
+DTSTART:20261013T190000Z
+SUMMARY:[UEFA Champions League] Villarreal vs SSC Napoli
+UID:16938924
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Eurocup\nMatch: Napoli Basket vs KK Budućnost VOLI\nhttps://www.sofascore.com/guerri-napoli-basketball-kk-buducnost-voli/16561725
@@ -170,11 +331,39 @@ SUMMARY:[Eurocup] Napoli Basket vs KK Budućnost VOLI
 UID:16561725
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: SSC Napoli vs AC Milan\nhttps://www.sofascore.com/ssc-napoli-ac-milan/16285126
+DURATION:PT2H
+DTSTART:20261212T130000Z
+SUMMARY:[Serie A] SSC Napoli vs AC Milan
+UID:16285126
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: Atalanta vs SSC Napoli\nhttps://www.sofascore.com/ssc-napoli-atalanta/16285127
+DURATION:PT2H
+DTSTART:20261220T194500Z
+SUMMARY:[Serie A] Atalanta vs SSC Napoli
+UID:16285127
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Competition: Eurocup\nMatch: Napoli Basket vs Klaipėdos Neptūnas\nhttps://www.sofascore.com/guerri-napoli-basketball-klaipedos-neptunas/16561771
 DURATION:PT2H
 DTSTART:20261230T190000Z
 SUMMARY:[Eurocup] Napoli Basket vs Klaipėdos Neptūnas
 UID:16561771
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: UEFA Champions League\nMatch: Manchester City vs SSC Napoli\nhttps://www.sofascore.com/ssc-napoli-manchester-city/16938774
+DURATION:PT2H
+DTSTART:20261124T200000Z
+SUMMARY:[UEFA Champions League] Manchester City vs SSC Napoli
+UID:16938774
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: SSC Napoli vs Fiorentina\nhttps://www.sofascore.com/ssc-napoli-fiorentina/16285174
+DURATION:PT2H
+DTSTART:20270116T130000Z
+SUMMARY:[Serie A] SSC Napoli vs Fiorentina
+UID:16285174
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nMatch: Pallacanestro Cantù vs Napoli Basket\nhttps://www.sofascore.com/guerri-napoli-basketball-pallacanestro-cantu/16722440
@@ -198,6 +387,13 @@ SUMMARY:[Lega A Basket] EA7 Emporio Armani Milano vs Napoli Basket
 UID:16722445
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: Venezia vs SSC Napoli\nhttps://www.sofascore.com/ssc-napoli-venezia/16285047
+DURATION:PT2H
+DTSTART:20261017T130000Z
+SUMMARY:[Serie A] Venezia vs SSC Napoli
+UID:16285047
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nMatch: Givova Scafati vs Napoli Basket\nhttps://www.sofascore.com/guerri-napoli-basketball-givova-scafati/16722492
 DURATION:PT2H
 DTSTART:20261108T170000Z
@@ -210,5 +406,19 @@ DURATION:PT2H
 DTSTART:20261111T180000Z
 SUMMARY:[Eurocup] BV Chemnitz 99 vs Napoli Basket
 UID:16561692
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: SSC Napoli vs Lecce\nhttps://www.sofascore.com/ssc-napoli-lecce/16285115
+DURATION:PT2H
+DTSTART:20261205T194500Z
+SUMMARY:[Serie A] SSC Napoli vs Lecce
+UID:16285115
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: SSC Napoli vs Torino\nhttps://www.sofascore.com/ssc-napoli-torino/16285096
+DURATION:PT2H
+DTSTART:20261121T194500Z
+SUMMARY:[Serie A] SSC Napoli vs Torino
+UID:16285096
 END:VEVENT
 END:VCALENDAR
