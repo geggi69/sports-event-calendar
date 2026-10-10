@@ -11,10 +11,44 @@ TEAMS = [
     {
         "id": 2714,
         "name": "SSC Napoli"
+    }  , 
+    {
+        "id": 7057,
+        "name": "Italia"
     }
 ]
 
 calendar = Calendar()
+
+def get_icon(competition):
+
+    competition = competition.lower()
+
+    if "lega a" in competition:
+        return "🏀"
+
+    if "eurocup" in competition:
+        return "🏆🏀"
+
+    if "serie a" in competition:
+        return "⚽"
+
+    if "champions" in competition:
+        return "🌟⚽"
+
+    if "six nations" in competition:
+        return "🏉🇪🇺"
+
+    if "world cup" in competition:
+        return "🏆🏉"
+
+    if "rugby" in competition:
+        return "🏉"
+
+    return "📅"
+
+for team in TEAMS:
+
 
 for team in TEAMS:
 
@@ -53,7 +87,9 @@ for team in TEAMS:
 
         event.uid = str(match["id"])
 
-        event.name = f"[{competition}] {home} vs {away}"
+        icon = get_icon(competition)
+
+        event.name = f"{icon} {home} vs {away}"
 
         event.begin = start
 
