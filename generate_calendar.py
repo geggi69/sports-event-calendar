@@ -7,6 +7,10 @@ TEAMS = [
     {
         "id": 266195,
         "name": "Napoli Basket"
+    }  , 
+    {
+        "id": 2714,
+        "name": "SSC Napoli"
     }
 ]
 
