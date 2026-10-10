@@ -2,42 +2,36 @@ name: Update Sports Calendar
 
 on:
   workflow_dispatch:
-
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: '0 */6 * * *'
 
 permissions:
-  contents* write
+  contents: write
 
 jobs:
   update-calendar:
- *  runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
 
-    step*:
-      - name: Checkout repositor*
-        uses: actions/checkout@v4*
-      - name: Setup Python
-      * uses: actions/setup-python@v5
-   *    with:
-          python-version* "3.12"
+    steps:
+      - uses: actions/checkout@v4
 
-      - name: Install dep*ndencies
-        run: pip install *r requirements.txt
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
 
-      - name: *enerate calendar
-        run: pyth*n generate_calendar.py
+      - run: pip install -r requirements.txt
 
-      - na*e: Commit changes
-        run: |
- *        git config user.name "gith*b-actions"
-          git config us*r.email "github-actions@github.com*
+      - run: python generate_calendar.py
+
+      - run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
 
           git add sports.ics
 
-  *       if git diff --staged --quie*; then
-            echo "No change*"
+          if git diff --staged --quiet; then
+            echo "No changes"
           else
-            git c*mmit -m "Update sports calendar"
- *          git push
+            git commit -m "Update sports calendar"
+            git push
           fi
-``*
