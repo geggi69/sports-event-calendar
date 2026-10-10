@@ -7,11 +7,11 @@ TEAMS = [
     {
         "id": 266195,
         "name": "Napoli Basket"
-    }  , 
+    },
     {
         "id": 2714,
         "name": "SSC Napoli"
-    }  , 
+    },
     {
         "id": 7057,
         "name": "Italia"
@@ -48,15 +48,7 @@ def get_icon(competition):
     return "📅"
 
 
-for team in TEAMS:
-
-    url = f"https://sofascore-sport-api.p.rapidapi.com/api/team/{team['id']}/events/next/0"
-
-    headers = {
-        "x-rapidapi-key": os.environ["RAPIDAPI_KEY"],
-        "x-rapidapi-host": "sofascore-sport-api.p.rapidapi.com",
-        "accept": "application/json"
-    }
+def load_events(url, headers):
 
     response = requests.get(
         url,
@@ -66,8 +58,33 @@ for team in TEAMS:
 
     response.raise_for_status()
 
-    data = response.json()
-    events = data["events"]
+    return response.json()["events"]
+
+
+for team in TEAMS:
+
+    headers = {
+        "x-rapidapi-key": os.environ["RAPIDAPI_KEY"],
+        "x-rapidapi-host": "sofascore-sport-api.p.rapidapi.com",
+        "accept": "application/json"
+    }
+
+    future_url = (
+        f"https://sofascore-sport-api.p.rapidapi.com/"
+        f"api/team/{team['id']}/events/next/0"
+    )
+
+    past_url = (
+        f"https://sofascore-sport-api.p.rapidapi.com/"
+        f"api/team/{team['id']}/events/last/0"
+    )
+
+    future_events = load_events(future_url, headers)
+
+    # ultimi 10 risultati
+    past_events = load_events(past_url, headers)[:10]
+
+    events = future_events + past_events
 
     for match in events:
 
@@ -76,6 +93,8 @@ for team in TEAMS:
 
         competition = match["tournament"]["uniqueTournament"]["name"]
 
+        icon = get_icon(competition)
+
         start = datetime.fromtimestamp(
             match["startTimestamp"],
             timezone.utc
@@ -83,11 +102,35 @@ for team in TEAMS:
 
         event = Event()
 
-        event.uid = str(match["id"])
+        event.uid = f"{team['id']}-{match['id']}"
 
-        icon = get_icon(competition)
+        status = match.get("status", {}).get("type", "")
 
-        event.name = f"{icon} {home} vs {away}"
+        if status == "finished":
+
+            home_score = (
+                match.get("homeScore", {})
+                .get("current", 0)
+            )
+
+            away_score = (
+                match.get("awayScore", {})
+                .get("current", 0)
+            )
+
+            event.name = (
+                f"✅ {icon} "
+                f"[{competition}] "
+                f"{home} {home_score}-{away_score} {away}"
+            )
+
+        else:
+
+            event.name = (
+                f"{icon} "
+                f"[{competition}] "
+                f"{home} vs {away}"
+            )
 
         event.begin = start
 
