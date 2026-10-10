@@ -47,8 +47,6 @@ def get_icon(competition):
 
     return "📅"
 
-for team in TEAMS:
-
 
 for team in TEAMS:
 
