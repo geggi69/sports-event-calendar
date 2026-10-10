@@ -1,0 +1,43 @@
+name: Update Sports Calendar
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents* write
+
+jobs:
+  update-calendar:
+ *  runs-on: ubuntu-latest
+
+    step*:
+      - name: Checkout repositor*
+        uses: actions/checkout@v4*
+      - name: Setup Python
+      * uses: actions/setup-python@v5
+   *    with:
+          python-version* "3.12"
+
+      - name: Install dep*ndencies
+        run: pip install *r requirements.txt
+
+      - name: *enerate calendar
+        run: pyth*n generate_calendar.py
+
+      - na*e: Commit changes
+        run: |
+ *        git config user.name "gith*b-actions"
+          git config us*r.email "github-actions@github.com*
+
+          git add sports.ics
+
+  *       if git diff --staged --quie*; then
+            echo "No change*"
+          else
+            git c*mmit -m "Update sports calendar"
+ *          git push
+          fi
+``*
