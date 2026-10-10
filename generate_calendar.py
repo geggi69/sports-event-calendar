@@ -15,7 +15,21 @@ for team in TEAMS:
 
     url = f"https://www.sofascore.com/api/v1/team/{team['id']}/events/next/0"
 
-    response = requests.get(url)
+    headers = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/131.0 Safari/537.36"
+    ),
+    "Accept": "application/json",
+    "Referer": "https://www.sofascore.com/"
+}
+
+response = requests.get(
+    url,
+    headers=headers,
+    timeout=30
+)
     response.raise_for_status()
 
     events = response.json()["events"]
