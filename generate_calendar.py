@@ -105,7 +105,7 @@ for team in TEAMS:
     past_events = load_events(
         team["id"],
         "last"
-    )[:10]
+    )[:-10]
 
     print(
         f"{team['name']} past events: "
