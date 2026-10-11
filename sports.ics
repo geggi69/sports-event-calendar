@@ -65,6 +65,13 @@ SUMMARY:⚽ [Serie A] SSC Napoli vs Juventus
 UID:sofascore-16283227
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: Bologna vs SSC Napoli\nhttps://www.sofascore.com/ssc-napoli-bologna/16285227
+DURATION:PT2H
+DTSTART:20270313T130000Z
+SUMMARY:⚽ [Serie A] Bologna vs SSC Napoli
+UID:sofascore-16285227
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nMatch: Napoli Basket vs EA7 Emporio Armani Milano\nhttps://www.sofascore.com/guerri-napoli-basketball-ea7-emporio-armani-milano/16722472
 DURATION:PT2H
 DTSTART:20261018T100000Z
@@ -289,13 +296,6 @@ SUMMARY:✅ 🌟⚽ [UEFA Champions League] SSC Napoli 2-3 Chelsea
 UID:sofascore-14566899
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Competition: Serie A\nFinal score: 3-0\nhttps://www.sofascore.com/napoli-juventus/13981638
-DURATION:PT2H
-DTSTART:20260125T170000Z
-SUMMARY:✅ ⚽ [Serie A] Juventus 3-0 SSC Napoli
-UID:sofascore-13981638
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nMatch: Napoli Basket vs Pallacanestro Trieste\nhttps://www.sofascore.com/guerri-napoli-basketball-pallacanestro-trieste/16722501
 DURATION:PT2H
 DTSTART:20261115T160000Z
@@ -485,6 +485,13 @@ SUMMARY:✅ 🏆🏉 [World Cup] France 60-7 Italy
 UID:sofascore-10770295
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nFinal score: 0-1\nhttps://www.sofascore.com/cagliari-napoli/13981717
+DURATION:PT2H
+DTSTART:20260320T173000Z
+SUMMARY:✅ ⚽ [Serie A] Cagliari 0-1 SSC Napoli
+UID:sofascore-13981717
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nFinal score: 110-84\nhttps://www.sofascore.com/gevi-napoli-basket-pallacanestro-trieste/14343963
 DURATION:PT2H
 DTSTART:20260214T190000Z
@@ -497,13 +504,6 @@ DURATION:PT2H
 DTSTART:20270109T130000Z
 SUMMARY:⚽ [Serie A] Udinese vs SSC Napoli
 UID:sofascore-16285167
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Competition: Serie A\nMatch: SSC Napoli vs Frosinone\nhttps://www.sofascore.com/frosinone-ssc-napoli/16285036
-DURATION:PT2H
-DTSTART:20261010T184500Z
-SUMMARY:⚽ [Serie A] SSC Napoli vs Frosinone
-UID:sofascore-16285036
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Int. Friendly Games\nFinal score: 14-36\nhttps://www.sofascore.com/tonga-italy/12523039
