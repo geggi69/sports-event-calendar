@@ -135,6 +135,27 @@ SUMMARY:🏀 [Lega A Basket] Napoli Basket vs Tezenis Verona
 UID:sofascore-16722590
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Competition: Club Friendly Games\nFinal score: 2-1\nhttps://www.sofascore.com/osasuna-ssc-napoli/16553590
+DURATION:PT2H
+DTSTART:20260805T163000Z
+SUMMARY:✅ 📅 [Club Friendly Games] SSC Napoli 2-1 Osasuna
+UID:sofascore-16553590
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Club Friendly Games\nFinal score: 1-1\nhttps://www.sofascore.com/celta-vigo-ssc-napoli/16553591
+DURATION:PT2H
+DTSTART:20260808T190000Z
+SUMMARY:✅ 📅 [Club Friendly Games] SSC Napoli 1-1 Celta Vigo
+UID:sofascore-16553591
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Eurocup\nFinal score: 84-76\nhttps://www.sofascore.com/guerri-napoli-basketball-jl-bourg-basket/16561593
+DURATION:PT2H
+DTSTART:20260930T180000Z
+SUMMARY:✅ 🟠🏀 [Eurocup] Napoli Basket 84-76 JL Bourg Basket
+UID:sofascore-16561593
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nMatch: BC Roma vs Napoli Basket\nhttps://www.sofascore.com/bc-roma-spqr-guerri-napoli-basketball/16722594
 DURATION:PT2H
 DTSTART:20261213T180000Z
@@ -147,6 +168,13 @@ DURATION:PT2H
 DTSTART:20270124T180000Z
 SUMMARY:🏀 [Lega A Basket] Napoli Basket vs Bertram Derthona Tortona
 UID:sofascore-16722460
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Lega A Basket\nFinal score: 99-93\nhttps://www.sofascore.com/guerri-napoli-basketball-unahotels-reggio-emilia/16722466
+DURATION:PT2H
+DTSTART:20261003T183000Z
+SUMMARY:✅ 🏀 [Lega A Basket] Napoli Basket 99-93 UNAhotels Reggio Emilia
+UID:sofascore-16722466
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Coppa Italia\nMatch: SSC Napoli vs Fiorentina\nhttps://www.sofascore.com/ssc-napoli-fiorentina/17107333
@@ -168,6 +196,13 @@ DURATION:PT2H
 DTSTART:20270130T130000Z
 SUMMARY:⚽ [Serie A] SSC Napoli vs Inter
 UID:sofascore-16283209
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Int. Friendly Games\nFinal score: 14-32\nhttps://www.sofascore.com/italy-south-africa/14884323
+DURATION:PT2H
+DTSTART:20251115T124000Z
+SUMMARY:✅ 🏉 [Int. Friendly Games] Italy 14-32 South Africa
+UID:sofascore-14884323
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nMatch: Pallacanestro Cantù vs Napoli Basket\nhttps://www.sofascore.com/guerri-napoli-basketball-pallacanestro-cantu/16722440
@@ -247,6 +282,13 @@ SUMMARY:🟠🏀 [Eurocup] Napoli Basket vs Dolomiti Energia Trento
 UID:sofascore-16561675
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Competition: Lega A Basket\nFinal score: 75-94\nhttps://www.sofascore.com/maxima-roma-guerri-napoli-basketball/16722678
+DURATION:PT2H
+DTSTART:20260927T161500Z
+SUMMARY:✅ 🏀 [Lega A Basket] Maxima Roma 75-94 Napoli Basket
+UID:sofascore-16722678
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nMatch: Napoli Basket vs Givova Scafati\nhttps://www.sofascore.com/guerri-napoli-basketball-givova-scafati/16722545
 DURATION:PT2H
 DTSTART:20270214T180000Z
@@ -317,6 +359,13 @@ SUMMARY:✅ ⚽ [Serie A] SSC Napoli 2-1 Fiorentina
 UID:sofascore-13981647
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Competition: ABA Liga Preseason\nFinal score: 65-104\nhttps://www.sofascore.com/guerri-napoli-basketball-kk-krka-novo-mesto/16892893
+DURATION:PT2H
+DTSTART:20260901T160000Z
+SUMMARY:✅ 📅 [ABA Liga Preseason] KK Krka Novo Mesto 65-104 Napoli Basket
+UID:sofascore-16892893
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Competition: Six Nations\nFinal score: 21-24\nhttps://www.sofascore.com/wales-italy/11192895
 DURATION:PT2H
 DTSTART:20240316T141500Z
@@ -380,11 +429,18 @@ SUMMARY:🏆🏉 [World Cup] South Africa vs Italy
 UID:sofascore-16248083
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Competition: Int. Friendly Games\nFinal score: 42-24\nhttps://www.sofascore.com/italy-south-africa/14076881
+DESCRIPTION:Competition: Lega A Basket\nFinal score: 98-71\nhttps://www.sofascore.com/gevi-napoli-basket-apu-udine/14344085
 DURATION:PT2H
-DTSTART:20250705T151000Z
-SUMMARY:✅ 🏉 [Int. Friendly Games] South Africa 42-24 Italy
-UID:sofascore-14076881
+DTSTART:20260510T150000Z
+SUMMARY:✅ 🏀 [Lega A Basket] Napoli Basket 98-71 APU Udine
+UID:sofascore-14344085
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: ABA Liga Preseason\nFinal score: 94-107\nhttps://www.sofascore.com/guerri-napoli-basketball-igokea-mtel/16872502
+DURATION:PT2H
+DTSTART:20260827T120000Z
+SUMMARY:✅ 📅 [ABA Liga Preseason] Napoli Basket 94-107 Igokea m:tel
+UID:sofascore-16872502
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nMatch: Dolomiti Energia Trento vs Napoli Basket\nhttps://www.sofascore.com/guerri-napoli-basketball-dolomiti-energia-trento/16722507
@@ -399,6 +455,13 @@ DURATION:PT2H
 DTSTART:20260511T184500Z
 SUMMARY:✅ ⚽ [Serie A] SSC Napoli 2-3 Bologna
 UID:sofascore-13980089
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Int. Friendly Games\nFinal score: 42-24\nhttps://www.sofascore.com/italy-south-africa/14076881
+DURATION:PT2H
+DTSTART:20250705T151000Z
+SUMMARY:✅ 🏉 [Int. Friendly Games] South Africa 42-24 Italy
+UID:sofascore-14076881
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Eurocup\nMatch: Tofaş Bursa vs Napoli Basket\nhttps://www.sofascore.com/guerri-napoli-basketball-tofas-bursa/16561754
@@ -457,6 +520,34 @@ SUMMARY:🏀 [Lega A Basket] APU Udine vs Napoli Basket
 UID:sofascore-16722610
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Competition: Eurocup\nFinal score: 75-93\nhttps://www.sofascore.com/guerri-napoli-basketball-kk-buducnost-voli/16561612
+DURATION:PT2H
+DTSTART:20261006T170000Z
+SUMMARY:✅ 🟠🏀 [Eurocup] KK Budućnost VOLI 75-93 Napoli Basket
+UID:sofascore-16561612
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Six Nations\nFinal score: 20-13\nhttps://www.sofascore.com/italy-ireland/15105994
+DURATION:PT2H
+DTSTART:20260214T141000Z
+SUMMARY:✅ 🏉🇪🇺 [Six Nations] Ireland 20-13 Italy
+UID:sofascore-15105994
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Six Nations\nFinal score: 18-15\nhttps://www.sofascore.com/italy-scotland/15105995
+DURATION:PT2H
+DTSTART:20260207T141000Z
+SUMMARY:✅ 🏉🇪🇺 [Six Nations] Italy 18-15 Scotland
+UID:sofascore-15105995
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Six Nations\nFinal score: 33-8\nhttps://www.sofascore.com/italy-france/15105997
+DURATION:PT2H
+DTSTART:20260222T151000Z
+SUMMARY:✅ 🏉🇪🇺 [Six Nations] France 33-8 Italy
+UID:sofascore-15105997
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Competition: Serie A\nFinal score: 1-0\nhttps://www.sofascore.com/napoli-udinese/13980061
 DURATION:PT2H
 DTSTART:20260524T160000Z
@@ -513,6 +604,13 @@ SUMMARY:✅ 🏀 [Lega A Basket] Napoli Basket 104-75 Openjobmetis Varese
 UID:sofascore-14343984
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Competition: Club Friendly Games\nFinal score: 6-2\nhttps://www.sofascore.com/aris-thessaloniki-ssc-napoli/16641185
+DURATION:PT2H
+DTSTART:20260812T190000Z
+SUMMARY:✅ 📅 [Club Friendly Games] SSC Napoli 6-2 Aris Thessaloniki
+UID:sofascore-16641185
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Competition: UEFA Champions League\nMatch: SSC Napoli vs Club Brugge KV\nhttps://www.sofascore.com/club-brugge-kv-ssc-napoli/16938986
 DURATION:PT2H
 DTSTART:20261208T200000Z
@@ -539,6 +637,34 @@ DURATION:PT2H
 DTSTART:20260412T163000Z
 SUMMARY:✅ 🏀 [Lega A Basket] Napoli Basket 88-71 Nutribullet Treviso Basket
 UID:sofascore-14343989
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: UEFA Champions League\nFinal score: 0-1\nhttps://www.sofascore.com/ssc-napoli-arsenal/16938985
+DURATION:PT2H
+DTSTART:20260909T190000Z
+SUMMARY:✅ 🌟⚽ [UEFA Champions League] SSC Napoli 0-1 Arsenal
+UID:sofascore-16938985
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Nations Championship\nFinal score: 27-10\nhttps://www.sofascore.com/japan-italy/16098052
+DURATION:PT2H
+DTSTART:20260704T084000Z
+SUMMARY:✅ 🏉 [Nations Championship] Japan 27-10 Italy
+UID:sofascore-16098052
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Nations Championship\nFinal score: 47-17\nhttps://www.sofascore.com/italy-new-zealand/16098054
+DURATION:PT2H
+DTSTART:20260711T051000Z
+SUMMARY:✅ 🏉 [Nations Championship] New Zealand 47-17 Italy
+UID:sofascore-16098054
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Nations Championship\nFinal score: 57-10\nhttps://www.sofascore.com/italy-australia/16098055
+DURATION:PT2H
+DTSTART:20260718T101000Z
+SUMMARY:✅ 🏉 [Nations Championship] Australia 57-10 Italy
+UID:sofascore-16098055
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Serie A\nMatch: SSC Napoli vs AS Roma\nhttps://www.sofascore.com/ssc-napoli-as-roma/16285056
@@ -588,6 +714,20 @@ DURATION:PT2H
 DTSTART:20260315T163000Z
 SUMMARY:✅ 🏀 [Lega A Basket] Pallacanestro Cantù 94-77 Napoli Basket
 UID:sofascore-14343978
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nFinal score: 0-2\nhttps://www.sofascore.com/ssc-napoli-genoa/16283040
+DURATION:PT2H
+DTSTART:20260822T184500Z
+SUMMARY:✅ ⚽ [Serie A] Genoa 0-2 SSC Napoli
+UID:sofascore-16283040
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nFinal score: 1-2\nhttps://www.sofascore.com/ssc-napoli-como/16284977
+DURATION:PT2H
+DTSTART:20260830T163000Z
+SUMMARY:✅ ⚽ [Serie A] SSC Napoli 1-2 Como
+UID:sofascore-16284977
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Nations Championship\nMatch: Italy vs Argentina\nhttps://www.sofascore.com/italy-argentina/16098046
@@ -646,6 +786,13 @@ SUMMARY:✅ 🏀 [Lega A Basket] Napoli Basket 71-90 Virtus Bologna
 UID:sofascore-14343968
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nFinal score: 3-0\nhttps://www.sofascore.com/frosinone-ssc-napoli/16285036
+DURATION:PT2H
+DTSTART:20261010T184500Z
+SUMMARY:✅ ⚽ [Serie A] SSC Napoli 3-0 Frosinone
+UID:sofascore-16285036
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Competition: Int. Friendly Games\nFinal score: 14-36\nhttps://www.sofascore.com/tonga-italy/12523039
 DURATION:PT2H
 DTSTART:20240712T023000Z
@@ -688,11 +835,25 @@ SUMMARY:✅ 🏉 [Int. Friendly Games] Italy 20-17 Georgia
 UID:sofascore-12916954
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Competition: Memorial Pajetta\nFinal score: 74-100\nhttps://www.sofascore.com/guerri-napoli-basketball-paok-bc/17016155
+DURATION:PT2H
+DTSTART:20260906T173000Z
+SUMMARY:✅ 📅 [Memorial Pajetta] Napoli Basket 74-100 PAOK BC
+UID:sofascore-17016155
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Competition: Int. Friendly Games\nFinal score: 18-50\nhttps://www.sofascore.com/italy-argentina/12916959
 DURATION:PT2H
 DTSTART:20241109T174000Z
 SUMMARY:✅ 🏉 [Int. Friendly Games] Italy 18-50 Argentina
 UID:sofascore-12916959
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: ABA Liga Preseason\nMatch: KK Spartak Office Shoes vs Napoli Basket\nhttps://www.sofascore.com/guerri-napoli-basketball-kk-spartak-office-shoes/16818821
+DURATION:PT2H
+DTSTART:20260821T150000Z
+SUMMARY:📅 [ABA Liga Preseason] KK Spartak Office Shoes vs Napoli Basket
+UID:sofascore-16818821
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Serie A\nMatch: Frosinone vs SSC Napoli\nhttps://www.sofascore.com/frosinone-ssc-napoli/16285276
@@ -723,6 +884,13 @@ SUMMARY:⚽ [Serie A] Parma vs SSC Napoli
 UID:sofascore-16285144
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Competition: Memorial Pajetta\nFinal score: 88-97\nhttps://www.sofascore.com/guerri-napoli-basketball-unahotels-reggio-emilia/17014144
+DURATION:PT2H
+DTSTART:20260905T150000Z
+SUMMARY:✅ 📅 [Memorial Pajetta] UNAhotels Reggio Emilia 88-97 Napoli Basket
+UID:sofascore-17014144
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nFinal score: 64-79\nhttps://www.sofascore.com/gevi-napoli-basket-umana-reyer-venezia/14343949
 DURATION:PT2H
 DTSTART:20260208T150000Z
@@ -730,11 +898,25 @@ SUMMARY:✅ 🏀 [Lega A Basket] Napoli Basket 64-79 Umana Reyer Venezia
 UID:sofascore-14343949
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nFinal score: 1-0\nhttps://www.sofascore.com/ssc-napoli-bologna/16285015
+DURATION:PT2H
+DTSTART:20260913T160000Z
+SUMMARY:✅ ⚽ [Serie A] SSC Napoli 1-0 Bologna
+UID:sofascore-16285015
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Competition: UEFA Champions League\nMatch: Sabah FK vs SSC Napoli\nhttps://www.sofascore.com/sabah-fk-ssc-napoli/16939016
 DURATION:PT2H
 DTSTART:20270120T174500Z
 SUMMARY:🌟⚽ [UEFA Champions League] Sabah FK vs SSC Napoli
 UID:sofascore-16939016
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nFinal score: 1-1\nhttps://www.sofascore.com/ssc-napoli-fiorentina/16285018
+DURATION:PT2H
+DTSTART:20260920T103000Z
+SUMMARY:✅ ⚽ [Serie A] Fiorentina 1-1 SSC Napoli
+UID:sofascore-16285018
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Club Friendly Games\nFinal score: 1-3\nhttps://www.sofascore.com/arezzo-ssc-napoli/16552267
@@ -793,6 +975,13 @@ SUMMARY:✅ 📅 [Final Eight] Virtus Bologna 83-73 Napoli Basket
 UID:sofascore-15395134
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nFinal score: 3-2\nhttps://www.sofascore.com/ssc-napoli-inter/16285003
+DURATION:PT2H
+DTSTART:20260905T160000Z
+SUMMARY:✅ ⚽ [Serie A] Inter 3-2 SSC Napoli
+UID:sofascore-16285003
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Competition: Eurocup\nMatch: Napoli Basket vs BV Chemnitz 99\nhttps://www.sofascore.com/guerri-napoli-basketball-bv-chemnitz-99/16561804
 DURATION:PT2H
 DTSTART:20270113T190000Z
@@ -805,6 +994,20 @@ DURATION:PT2H
 DTSTART:20260419T143000Z
 SUMMARY:✅ 🏀 [Lega A Basket] EA7 Emporio Armani Milano 125-97 Napoli Basket
 UID:sofascore-14344005
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Six Nations\nFinal score: 23-18\nhttps://www.sofascore.com/italy-england/15106005
+DURATION:PT2H
+DTSTART:20260307T164000Z
+SUMMARY:✅ 🏉🇪🇺 [Six Nations] Italy 23-18 England
+UID:sofascore-15106005
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Six Nations\nFinal score: 31-17\nhttps://www.sofascore.com/wales-italy/15106006
+DURATION:PT2H
+DTSTART:20260314T164000Z
+SUMMARY:✅ 🏉🇪🇺 [Six Nations] Wales 31-17 Italy
+UID:sofascore-15106006
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nFinal score: 84-74\nhttps://www.sofascore.com/gevi-napoli-basket-dolomiti-energia-trento/14344009
@@ -868,6 +1071,13 @@ DURATION:PT2H
 DTSTART:20250201T141500Z
 SUMMARY:✅ 🏉🇪🇺 [Six Nations] Scotland 31-19 Italy
 UID:sofascore-12173491
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Int. Friendly Games\nFinal score: 34-19\nhttps://www.sofascore.com/chile-italy/15011111
+DURATION:PT2H
+DTSTART:20251122T201000Z
+SUMMARY:✅ 🏉 [Int. Friendly Games] Italy 34-19 Chile
+UID:sofascore-15011111
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nMatch: Givova Scafati vs Napoli Basket\nhttps://www.sofascore.com/guerri-napoli-basketball-givova-scafati/16722492
