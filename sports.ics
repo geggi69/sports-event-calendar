@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Competition: Lega A Basket\nFinal score: 102-76\nhttps://www.sofascore.com/gevi-napoli-basket-vanoli-basket-cremona/14341918
-DURATION:PT2H
-DTSTART:20251214T170000Z
-SUMMARY:✅ 🏀 [Lega A Basket] Napoli Basket 102-76 Vanoli Basket Cremona
-UID:sofascore-14341918
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Competition: Int. Friendly Games\nFinal score: 14-42\nhttps://www.sofascore.com/japan-italy/12503230
 DURATION:PT2H
 DTSTART:20240721T050500Z
@@ -205,10 +198,10 @@ SUMMARY:✅ 🏉 [Int. Friendly Games] Italy 14-32 South Africa
 UID:sofascore-14884323
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Competition: Lega A Basket\nMatch: Pallacanestro Cantù vs Napoli Basket\nhttps://www.sofascore.com/guerri-napoli-basketball-pallacanestro-cantu/16722440
+DESCRIPTION:Competition: Lega A Basket\nFinal score: 80-99\nhttps://www.sofascore.com/guerri-napoli-basketball-pallacanestro-cantu/16722440
 DURATION:PT2H
 DTSTART:20261011T150000Z
-SUMMARY:🏀 [Lega A Basket] Pallacanestro Cantù vs Napoli Basket
+SUMMARY:✅ 🏀 [Lega A Basket] Pallacanestro Cantù 80-99 Napoli Basket
 UID:sofascore-16722440
 END:VEVENT
 BEGIN:VEVENT
@@ -238,6 +231,13 @@ DURATION:PT2H
 DTSTART:20251108T174000Z
 SUMMARY:✅ 🏉 [Int. Friendly Games] Italy 26-19 Australia
 UID:sofascore-14884319
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Lega A Basket\nMatch: Openjobmetis Varese vs Napoli Basket\nhttps://www.sofascore.com/guerri-napoli-basketball-openjobmetis-varese/16722564
+DURATION:PT2H
+DTSTART:20270307T180000Z
+SUMMARY:🏀 [Lega A Basket] Openjobmetis Varese vs Napoli Basket
+UID:sofascore-16722564
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nMatch: Nutribullet Treviso Basket vs Napoli Basket\nhttps://www.sofascore.com/guerri-napoli-basketball-nutribullet-treviso-basket/16722436
