@@ -98,14 +98,14 @@ for team in TEAMS:
         ] = match
 
 #
-# Ultimi 10 eventi passati
+# Ultimi 30 eventi passati
 #
 for team in TEAMS:
 
     past_events = load_events(
         team["id"],
         "last"
-    )[:-10]
+    )
 
     print(
         f"{team['name']} past events: "
