@@ -9,6 +9,13 @@ SUMMARY:✅ 🏉 [Int. Friendly Games] Japan 14-42 Italy
 UID:sofascore-12503230
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: SSC Napoli vs Venezia\nhttps://www.sofascore.com/ssc-napoli-venezia/16283234
+DURATION:PT2H
+DTSTART:20270320T130000Z
+SUMMARY:⚽ [Serie A] SSC Napoli vs Venezia
+UID:sofascore-16283234
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Competition: Six Nations\nFinal score: 36-0\nhttps://www.sofascore.com/italy-ireland/11192900
 DURATION:PT2H
 DTSTART:20240211T150000Z
@@ -385,13 +392,6 @@ DURATION:PT2H
 DTSTART:20240225T150000Z
 SUMMARY:✅ 🏉🇪🇺 [Six Nations] France 13-13 Italy
 UID:sofascore-11192899
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Competition: UEFA Champions League\nFinal score: 2-3\nhttps://www.sofascore.com/napoli-chelsea/14566899
-DURATION:PT2H
-DTSTART:20260128T200000Z
-SUMMARY:✅ 🌟⚽ [UEFA Champions League] SSC Napoli 2-3 Chelsea
-UID:sofascore-14566899
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Serie A\nFinal score: 0-0\nhttps://www.sofascore.com/napoli-como/13980081
@@ -1024,10 +1024,10 @@ SUMMARY:⚽ [Serie A] Lecce vs SSC Napoli
 UID:sofascore-16283257
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Competition: UEFA Champions League\nMatch: Villarreal vs SSC Napoli\nhttps://www.sofascore.com/villarreal-ssc-napoli/16938924
+DESCRIPTION:Competition: UEFA Champions League\nFinal score: 3-1\nhttps://www.sofascore.com/villarreal-ssc-napoli/16938924
 DURATION:PT2H
 DTSTART:20261013T190000Z
-SUMMARY:🌟⚽ [UEFA Champions League] Villarreal vs SSC Napoli
+SUMMARY:✅ 🌟⚽ [UEFA Champions League] Villarreal 3-1 SSC Napoli
 UID:sofascore-16938924
 END:VEVENT
 BEGIN:VEVENT
