@@ -471,10 +471,10 @@ SUMMARY:🟠🏀 [Eurocup] Tofaş Bursa vs Napoli Basket
 UID:sofascore-16561754
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Competition: Eurocup\nMatch: Śląsk Wrocław vs Napoli Basket\nhttps://www.sofascore.com/guerri-napoli-basketball-slask-wroclaw/16561625
+DESCRIPTION:Competition: Eurocup\nFinal score: 82-86\nhttps://www.sofascore.com/guerri-napoli-basketball-slask-wroclaw/16561625
 DURATION:PT2H
 DTSTART:20261014T170000Z
-SUMMARY:🟠🏀 [Eurocup] Śląsk Wrocław vs Napoli Basket
+SUMMARY:✅ 🟠🏀 [Eurocup] Śląsk Wrocław 82-86 Napoli Basket
 UID:sofascore-16561625
 END:VEVENT
 BEGIN:VEVENT
@@ -532,6 +532,13 @@ DURATION:PT2H
 DTSTART:20260214T141000Z
 SUMMARY:✅ 🏉🇪🇺 [Six Nations] Ireland 20-13 Italy
 UID:sofascore-15105994
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Lega A Basket\nMatch: Napoli Basket vs Dolomiti Energia Trento\nhttps://www.sofascore.com/guerri-napoli-basketball-dolomiti-energia-trento/16722615
+DURATION:PT2H
+DTSTART:20270314T180000Z
+SUMMARY:🏀 [Lega A Basket] Napoli Basket vs Dolomiti Energia Trento
+UID:sofascore-16722615
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Six Nations\nFinal score: 18-15\nhttps://www.sofascore.com/italy-scotland/15105995
@@ -924,13 +931,6 @@ DURATION:PT2H
 DTSTART:20260722T160000Z
 SUMMARY:✅ 📅 [Club Friendly Games] SSC Napoli 1-3 Arezzo
 UID:sofascore-16552267
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Competition: Lega A Basket\nFinal score: 106-96\nhttps://www.sofascore.com/gevi-napoli-basket-umana-reyer-venezia/14341931
-DURATION:PT2H
-DTSTART:20251221T150000Z
-SUMMARY:✅ 🏀 [Lega A Basket] Umana Reyer Venezia 106-96 Napoli Basket
-UID:sofascore-14341931
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Club Friendly Games\nFinal score: 2-0\nhttps://www.sofascore.com/carrarese-ssc-napoli/16552268
