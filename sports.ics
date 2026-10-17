@@ -30,6 +30,13 @@ SUMMARY:✅ ⚽ [Serie A] SSC Napoli 0-2 Lazio
 UID:sofascore-13980101
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: Cagliari vs SSC Napoli\nhttps://www.sofascore.com/cagliari-ssc-napoli/16283239
+DURATION:PT2H
+DTSTART:20270403T130000Z
+SUMMARY:⚽ [Serie A] Cagliari vs SSC Napoli
+UID:sofascore-16283239
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Competition: Six Nations\nFinal score: 24-73\nhttps://www.sofascore.com/italy-france/12173483
 DURATION:PT2H
 DTSTART:20250223T150000Z
@@ -357,13 +364,6 @@ DURATION:PT2H
 DTSTART:20261021T180000Z
 SUMMARY:🟠🏀 [Eurocup] Napoli Basket vs Tofaş Bursa
 UID:sofascore-16561641
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Competition: Serie A\nFinal score: 2-1\nhttps://www.sofascore.com/napoli-fiorentina/13981647
-DURATION:PT2H
-DTSTART:20260131T170000Z
-SUMMARY:✅ ⚽ [Serie A] SSC Napoli 2-1 Fiorentina
-UID:sofascore-13981647
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: ABA Liga Preseason\nFinal score: 65-104\nhttps://www.sofascore.com/guerri-napoli-basketball-kk-krka-novo-mesto/16892893
@@ -744,10 +744,10 @@ SUMMARY:🏉 [Nations Championship] Italy vs Argentina
 UID:sofascore-16098046
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Competition: Serie A\nMatch: Venezia vs SSC Napoli\nhttps://www.sofascore.com/ssc-napoli-venezia/16285047
+DESCRIPTION:Competition: Serie A\nFinal score: 1-0\nhttps://www.sofascore.com/ssc-napoli-venezia/16285047
 DURATION:PT2H
 DTSTART:20261017T130000Z
-SUMMARY:⚽ [Serie A] Venezia vs SSC Napoli
+SUMMARY:✅ ⚽ [Serie A] Venezia 1-0 SSC Napoli
 UID:sofascore-16285047
 END:VEVENT
 BEGIN:VEVENT
