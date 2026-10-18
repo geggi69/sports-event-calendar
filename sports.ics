@@ -114,10 +114,10 @@ SUMMARY:⚽ [Serie A] Bologna vs SSC Napoli
 UID:sofascore-16285227
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Competition: Lega A Basket\nMatch: Napoli Basket vs EA7 Emporio Armani Milano\nhttps://www.sofascore.com/guerri-napoli-basketball-ea7-emporio-armani-milano/16722472
+DESCRIPTION:Competition: Lega A Basket\nFinal score: 82-98\nhttps://www.sofascore.com/guerri-napoli-basketball-ea7-emporio-armani-milano/16722472
 DURATION:PT2H
 DTSTART:20261018T100000Z
-SUMMARY:🏀 [Lega A Basket] Napoli Basket vs EA7 Emporio Armani Milano
+SUMMARY:✅ 🏀 [Lega A Basket] Napoli Basket 82-98 EA7 Emporio Armani Milano
 UID:sofascore-16722472
 END:VEVENT
 BEGIN:VEVENT
@@ -252,6 +252,13 @@ DURATION:PT2H
 DTSTART:20270307T180000Z
 SUMMARY:🏀 [Lega A Basket] Openjobmetis Varese vs Napoli Basket
 UID:sofascore-16722564
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Lega A Basket\nMatch: Tezenis Verona vs Napoli Basket\nhttps://www.sofascore.com/guerri-napoli-basketball-tezenis-verona/16722569
+DURATION:PT2H
+DTSTART:20270321T180000Z
+SUMMARY:🏀 [Lega A Basket] Tezenis Verona vs Napoli Basket
+UID:sofascore-16722569
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nMatch: Nutribullet Treviso Basket vs Napoli Basket\nhttps://www.sofascore.com/guerri-napoli-basketball-nutribullet-treviso-basket/16722436
@@ -947,11 +954,11 @@ SUMMARY:✅ 🏀 [Lega A Basket] Openjobmetis Varese 84-80 Napoli Basket
 UID:sofascore-14344133
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Competition: Lega A Basket\nFinal score: 98-86\nhttps://www.sofascore.com/gevi-napoli-basket-pallacanestro-cantu/14341934
+DESCRIPTION:Competition: Lega A Basket\nFinal score: 76-82\nhttps://www.sofascore.com/gevi-napoli-basket-bertram-derthona-tortona/14343933
 DURATION:PT2H
-DTSTART:20251228T173000Z
-SUMMARY:✅ 🏀 [Lega A Basket] Napoli Basket 98-86 Pallacanestro Cantù
-UID:sofascore-14341934
+DTSTART:20260124T171500Z
+SUMMARY:✅ 🏀 [Lega A Basket] Napoli Basket 76-82 Bertram Derthona Tortona
+UID:sofascore-14343933
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nFinal score: 78-84\nhttps://www.sofascore.com/gevi-napoli-basket-banco-di-sardegna-sassari/14344135
@@ -959,13 +966,6 @@ DURATION:PT2H
 DTSTART:20260118T160000Z
 SUMMARY:✅ 🏀 [Lega A Basket] Banco di Sardegna Sassari 78-84 Napoli Basket
 UID:sofascore-14344135
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Competition: Lega A Basket\nFinal score: 76-82\nhttps://www.sofascore.com/gevi-napoli-basket-bertram-derthona-tortona/14343933
-DURATION:PT2H
-DTSTART:20260124T171500Z
-SUMMARY:✅ 🏀 [Lega A Basket] Napoli Basket 76-82 Bertram Derthona Tortona
-UID:sofascore-14343933
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Final Eight\nFinal score: 83-73\nhttps://www.sofascore.com/gevi-napoli-basket-virtus-bologna/15395134
