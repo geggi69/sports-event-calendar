@@ -212,6 +212,13 @@ SUMMARY:🏀 [Lega A Basket] Umana Reyer Venezia vs Napoli Basket
 UID:sofascore-16722581
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Competition: Lega A Basket\nMatch: Napoli Basket vs Pallacanestro Cantù\nhttps://www.sofascore.com/guerri-napoli-basketball-pallacanestro-cantu/16722587
+DURATION:PT2H
+DTSTART:20270509T170000Z
+SUMMARY:🏀 [Lega A Basket] Napoli Basket vs Pallacanestro Cantù
+UID:sofascore-16722587
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Competition: Serie A\nMatch: SSC Napoli vs Inter\nhttps://www.sofascore.com/ssc-napoli-inter/16283209
 DURATION:PT2H
 DTSTART:20270131T130000Z
@@ -247,10 +254,10 @@ SUMMARY:🏀 [Lega A Basket] Napoli Basket vs BC Roma
 UID:sofascore-16722692
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Competition: Eurocup\nMatch: BV Chemnitz 99 vs Napoli Basket\nhttps://www.sofascore.com/guerri-napoli-basketball-bv-chemnitz-99/16561692
+DESCRIPTION:Competition: Eurocup\nFinal score: 90-112\nhttps://www.sofascore.com/guerri-napoli-basketball-bv-chemnitz-99/16561692
 DURATION:PT2H
 DTSTART:20261111T180000Z
-SUMMARY:🟠🏀 [Eurocup] BV Chemnitz 99 vs Napoli Basket
+SUMMARY:✅ 🟠🏀 [Eurocup] BV Chemnitz 99 90-112 Napoli Basket
 UID:sofascore-16561692
 END:VEVENT
 BEGIN:VEVENT
@@ -266,6 +273,13 @@ DURATION:PT2H
 DTSTART:20270307T180000Z
 SUMMARY:🏀 [Lega A Basket] Openjobmetis Varese vs Napoli Basket
 UID:sofascore-16722564
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Six Nations\nMatch: England vs Italy\nhttps://www.sofascore.com/italy-england/17537430
+DURATION:PT2H
+DTSTART:20270220T164000Z
+SUMMARY:🏉🇪🇺 [Six Nations] England vs Italy
+UID:sofascore-17537430
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nMatch: Tezenis Verona vs Napoli Basket\nhttps://www.sofascore.com/guerri-napoli-basketball-tezenis-verona/16722569
@@ -303,6 +317,27 @@ SUMMARY:🏀 [Lega A Basket] Napoli Basket vs Virtus Bologna
 UID:sofascore-16722420
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Competition: Six Nations\nMatch: Scotland vs Italy\nhttps://www.sofascore.com/italy-scotland/17537421
+DURATION:PT2H
+DTSTART:20270206T141000Z
+SUMMARY:🏉🇪🇺 [Six Nations] Scotland vs Italy
+UID:sofascore-17537421
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Six Nations\nMatch: Italy vs Wales\nhttps://www.sofascore.com/wales-italy/17537423
+DURATION:PT2H
+DTSTART:20270313T141000Z
+SUMMARY:🏉🇪🇺 [Six Nations] Italy vs Wales
+UID:sofascore-17537423
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Six Nations\nMatch: Italy vs France\nhttps://www.sofascore.com/italy-france/17537429
+DURATION:PT2H
+DTSTART:20270306T141000Z
+SUMMARY:🏉🇪🇺 [Six Nations] Italy vs France
+UID:sofascore-17537429
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Competition: Eurocup\nFinal score: 90-79\nhttps://www.sofascore.com/guerri-napoli-basketball-dolomiti-energia-trento/16561675
 DURATION:PT2H
 DTSTART:20261103T190000Z
@@ -329,6 +364,13 @@ DURATION:PT2H
 DTSTART:20270131T180000Z
 SUMMARY:🏀 [Lega A Basket] UNAhotels Reggio Emilia vs Napoli Basket
 UID:sofascore-16722548
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Six Nations\nMatch: Italy vs Ireland\nhttps://www.sofascore.com/italy-ireland/17537419
+DURATION:PT2H
+DTSTART:20270213T141000Z
+SUMMARY:🏉🇪🇺 [Six Nations] Italy vs Ireland
+UID:sofascore-17537419
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Eurocup\nMatch: Dolomiti Energia Trento vs Napoli Basket\nhttps://www.sofascore.com/guerri-napoli-basketball-dolomiti-energia-trento/16561788
@@ -770,13 +812,6 @@ DURATION:PT2H
 DTSTART:20250712T151000Z
 SUMMARY:✅ 🏉 [Int. Friendly Games] South Africa 45-0 Italy
 UID:sofascore-14127717
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Competition: Lega A Basket\nFinal score: 110-84\nhttps://www.sofascore.com/gevi-napoli-basket-pallacanestro-trieste/14343963
-DURATION:PT2H
-DTSTART:20260214T190000Z
-SUMMARY:✅ 🏀 [Lega A Basket] Pallacanestro Trieste 110-84 Napoli Basket
-UID:sofascore-14343963
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Serie A\nMatch: Udinese vs SSC Napoli\nhttps://www.sofascore.com/ssc-napoli-udinese/16285167
