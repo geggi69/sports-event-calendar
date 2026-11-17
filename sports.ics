@@ -79,13 +79,6 @@ SUMMARY:✅ 🏀 [Lega A Basket] Napoli Basket 99-81 Umana Reyer Venezia
 UID:sofascore-16722486
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Competition: Six Nations\nFinal score: 24-27\nhttps://www.sofascore.com/italy-england/11192906
-DURATION:PT2H
-DTSTART:20240203T141500Z
-SUMMARY:✅ 🏉🇪🇺 [Six Nations] Italy 24-27 England
-UID:sofascore-11192906
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Competition: Six Nations\nFinal score: 31-29\nhttps://www.sofascore.com/italy-scotland/11192908
 DURATION:PT2H
 DTSTART:20240309T141500Z
@@ -450,10 +443,10 @@ SUMMARY:✅ ⚽ [Serie A] Como 0-0 SSC Napoli
 UID:sofascore-13980081
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Competition: Lega A Basket\nMatch: Napoli Basket vs Pallacanestro Trieste\nhttps://www.sofascore.com/guerri-napoli-basketball-pallacanestro-trieste/16722501
+DESCRIPTION:Competition: Lega A Basket\nFinal score: 90-89\nhttps://www.sofascore.com/guerri-napoli-basketball-pallacanestro-trieste/16722501
 DURATION:PT2H
 DTSTART:20261115T160000Z
-SUMMARY:🏀 [Lega A Basket] Napoli Basket vs Pallacanestro Trieste
+SUMMARY:✅ 🏀 [Lega A Basket] Napoli Basket 90-89 Pallacanestro Trieste
 UID:sofascore-16722501
 END:VEVENT
 BEGIN:VEVENT
@@ -786,10 +779,10 @@ SUMMARY:✅ ⚽ [Serie A] SSC Napoli 1-2 Como
 UID:sofascore-16284977
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Competition: Nations Championship\nMatch: Italy vs Argentina\nhttps://www.sofascore.com/italy-argentina/16098046
+DESCRIPTION:Competition: Nations Championship\nFinal score: 14-19\nhttps://www.sofascore.com/italy-argentina/16098046
 DURATION:PT2H
 DTSTART:20261114T114000Z
-SUMMARY:🏉 [Nations Championship] Italy vs Argentina
+SUMMARY:✅ 🏉 [Nations Championship] Italy 14-19 Argentina
 UID:sofascore-16098046
 END:VEVENT
 BEGIN:VEVENT
@@ -973,13 +966,6 @@ DURATION:PT2H
 DTSTART:20260726T160000Z
 SUMMARY:✅ 📅 [Club Friendly Games] SSC Napoli 2-0 Carrarese
 UID:sofascore-16552268
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Competition: Final Eight\nFinal score: 83-73\nhttps://www.sofascore.com/gevi-napoli-basket-virtus-bologna/15395134
-DURATION:PT2H
-DTSTART:20260219T194500Z
-SUMMARY:✅ 📅 [Final Eight] Virtus Bologna 83-73 Napoli Basket
-UID:sofascore-15395134
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Serie A\nFinal score: 3-2\nhttps://www.sofascore.com/ssc-napoli-inter/16285003
