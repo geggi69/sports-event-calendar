@@ -814,13 +814,6 @@ SUMMARY:⚽ [Serie A] Udinese vs SSC Napoli
 UID:sofascore-16285167
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Competition: Lega A Basket\nFinal score: 71-90\nhttps://www.sofascore.com/gevi-napoli-basket-virtus-segafredo-bologna/14343968
-DURATION:PT2H
-DTSTART:20260307T193000Z
-SUMMARY:✅ 🏀 [Lega A Basket] Napoli Basket 71-90 Virtus Bologna
-UID:sofascore-14343968
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Competition: Serie A\nFinal score: 3-0\nhttps://www.sofascore.com/frosinone-ssc-napoli/16285036
 DURATION:PT2H
 DTSTART:20261010T184500Z
@@ -842,18 +835,18 @@ SUMMARY:✅ ⚽ [Serie A] SSC Napoli 2-1 Lecce
 UID:sofascore-13981708
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Competition: Eurocup\nMatch: JL Bourg Basket vs Napoli Basket\nhttps://www.sofascore.com/guerri-napoli-basketball-jl-bourg-basket/16561708
-DURATION:PT2H
-DTSTART:20261118T183000Z
-SUMMARY:🟠🏀 [Eurocup] JL Bourg Basket vs Napoli Basket
-UID:sofascore-16561708
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nMatch: Pallacanestro Trieste vs Napoli Basket\nhttps://www.sofascore.com/guerri-napoli-basketball-pallacanestro-trieste/16722708
 DURATION:PT2H
 DTSTART:20270502T170000Z
 SUMMARY:🏀 [Lega A Basket] Pallacanestro Trieste vs Napoli Basket
 UID:sofascore-16722708
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Eurocup\nFinal score: 91-79\nhttps://www.sofascore.com/guerri-napoli-basketball-jl-bourg-basket/16561708
+DURATION:PT2H
+DTSTART:20261118T183000Z
+SUMMARY:✅ 🟠🏀 [Eurocup] JL Bourg Basket 91-79 Napoli Basket
+UID:sofascore-16561708
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Serie A\nMatch: SSC Napoli vs Cagliari\nhttps://www.sofascore.com/cagliari-ssc-napoli/16285152
