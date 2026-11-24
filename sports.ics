@@ -16,13 +16,6 @@ SUMMARY:⚽ [Serie A] SSC Napoli vs Venezia
 UID:sofascore-16283234
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Competition: Six Nations\nFinal score: 36-0\nhttps://www.sofascore.com/italy-ireland/11192900
-DURATION:PT2H
-DTSTART:20240211T150000Z
-SUMMARY:✅ 🏉🇪🇺 [Six Nations] Ireland 36-0 Italy
-UID:sofascore-11192900
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Competition: Serie A\nMatch: AS Roma vs SSC Napoli\nhttps://www.sofascore.com/ssc-napoli-as-roma/16285237
 DURATION:PT2H
 DTSTART:20270502T130000Z
@@ -415,10 +408,10 @@ SUMMARY:✅ 🏉🇪🇺 [Six Nations] Wales 21-24 Italy
 UID:sofascore-11192895
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Competition: Serie A\nMatch: SSC Napoli vs Torino\nhttps://www.sofascore.com/ssc-napoli-torino/16285096
+DESCRIPTION:Competition: Serie A\nFinal score: 1-0\nhttps://www.sofascore.com/ssc-napoli-torino/16285096
 DURATION:PT2H
 DTSTART:20261121T194500Z
-SUMMARY:⚽ [Serie A] SSC Napoli vs Torino
+SUMMARY:✅ ⚽ [Serie A] SSC Napoli 1-0 Torino
 UID:sofascore-16285096
 END:VEVENT
 BEGIN:VEVENT
@@ -485,10 +478,10 @@ SUMMARY:✅ ⚽ [Serie A] SSC Napoli 1-1 Lazio
 UID:sofascore-16285083
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Competition: Lega A Basket\nMatch: Dolomiti Energia Trento vs Napoli Basket\nhttps://www.sofascore.com/guerri-napoli-basketball-dolomiti-energia-trento/16722507
+DESCRIPTION:Competition: Lega A Basket\nFinal score: 100-86\nhttps://www.sofascore.com/guerri-napoli-basketball-dolomiti-energia-trento/16722507
 DURATION:PT2H
 DTSTART:20261121T180000Z
-SUMMARY:🏀 [Lega A Basket] Dolomiti Energia Trento vs Napoli Basket
+SUMMARY:✅ 🏀 [Lega A Basket] Dolomiti Energia Trento 100-86 Napoli Basket
 UID:sofascore-16722507
 END:VEVENT
 BEGIN:VEVENT
@@ -611,13 +604,6 @@ SUMMARY:🏀 [Lega A Basket] Napoli Basket vs Nutribullet Treviso Basket
 UID:sofascore-16722619
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Competition: Nations Championship\nMatch: Italy vs Fiji\nhttps://www.sofascore.com/fiji-italy/16098064
-DURATION:PT2H
-DTSTART:20261121T164000Z
-SUMMARY:🏉 [Nations Championship] Italy vs Fiji
-UID:sofascore-16098064
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Competition: World Cup\nMatch: Italy vs Romania\nhttps://www.sofascore.com/romania-italy/16248064
 DURATION:PT2H
 DTSTART:20271011T084500Z
@@ -630,6 +616,13 @@ DURATION:PT2H
 DTSTART:20260517T100000Z
 SUMMARY:✅ ⚽ [Serie A] Pisa 0-3 SSC Napoli
 UID:sofascore-13980065
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Nations Championship\nFinal score: 16-21\nhttps://www.sofascore.com/fiji-italy/16098064
+DURATION:PT2H
+DTSTART:20261121T164000Z
+SUMMARY:✅ 🏉 [Nations Championship] Italy 16-21 Fiji
+UID:sofascore-16098064
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Serie A\nFinal score: 2-0\nhttps://www.sofascore.com/ssc-napoli-juventus/16285067
@@ -758,11 +751,11 @@ SUMMARY:⚽ [Serie A] SSC Napoli vs Fiorentina
 UID:sofascore-16285174
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Competition: Lega A Basket\nFinal score: 94-77\nhttps://www.sofascore.com/gevi-napoli-basket-pallacanestro-cantu/14343978
+DESCRIPTION:Competition: Serie A\nFinal score: 1-2\nhttps://www.sofascore.com/ssc-napoli-como/16284977
 DURATION:PT2H
-DTSTART:20260315T163000Z
-SUMMARY:✅ 🏀 [Lega A Basket] Pallacanestro Cantù 94-77 Napoli Basket
-UID:sofascore-14343978
+DTSTART:20260830T163000Z
+SUMMARY:✅ ⚽ [Serie A] SSC Napoli 1-2 Como
+UID:sofascore-16284977
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Serie A\nFinal score: 0-2\nhttps://www.sofascore.com/ssc-napoli-genoa/16283040
@@ -770,13 +763,6 @@ DURATION:PT2H
 DTSTART:20260822T184500Z
 SUMMARY:✅ ⚽ [Serie A] Genoa 0-2 SSC Napoli
 UID:sofascore-16283040
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Competition: Serie A\nFinal score: 1-2\nhttps://www.sofascore.com/ssc-napoli-como/16284977
-DURATION:PT2H
-DTSTART:20260830T163000Z
-SUMMARY:✅ ⚽ [Serie A] SSC Napoli 1-2 Como
-UID:sofascore-16284977
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Nations Championship\nFinal score: 14-19\nhttps://www.sofascore.com/italy-argentina/16098046
@@ -826,13 +812,6 @@ DURATION:PT2H
 DTSTART:20240712T023000Z
 SUMMARY:✅ 🏉 [Int. Friendly Games] Tonga 14-36 Italy
 UID:sofascore-12523039
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Competition: Serie A\nFinal score: 2-1\nhttps://www.sofascore.com/napoli-lecce/13981708
-DURATION:PT2H
-DTSTART:20260314T170000Z
-SUMMARY:✅ ⚽ [Serie A] SSC Napoli 2-1 Lecce
-UID:sofascore-13981708
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nMatch: Pallacanestro Trieste vs Napoli Basket\nhttps://www.sofascore.com/guerri-napoli-basketball-pallacanestro-trieste/16722708
@@ -959,6 +938,20 @@ DURATION:PT2H
 DTSTART:20260726T160000Z
 SUMMARY:✅ 📅 [Club Friendly Games] SSC Napoli 2-0 Carrarese
 UID:sofascore-16552268
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: Torino vs SSC Napoli\nhttps://www.sofascore.com/ssc-napoli-torino/16285269
+DURATION:PT2H
+DTSTART:20270523T130000Z
+SUMMARY:⚽ [Serie A] Torino vs SSC Napoli
+UID:sofascore-16285269
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Nations Championship\nMatch: Fiji vs Italy\nhttps://www.sofascore.com/fiji-italy/17610139
+DURATION:PT2H
+DTSTART:20261127T164000Z
+SUMMARY:🏉 [Nations Championship] Fiji vs Italy
+UID:sofascore-17610139
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Serie A\nFinal score: 3-2\nhttps://www.sofascore.com/ssc-napoli-inter/16285003
