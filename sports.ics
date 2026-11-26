@@ -380,10 +380,10 @@ SUMMARY:🟠🏀 [Eurocup] Napoli Basket vs Klaipėdos Neptūnas
 UID:sofascore-16561771
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Competition: UEFA Champions League\nMatch: Manchester City vs SSC Napoli\nhttps://www.sofascore.com/ssc-napoli-manchester-city/16938774
+DESCRIPTION:Competition: UEFA Champions League\nFinal score: 2-2\nhttps://www.sofascore.com/ssc-napoli-manchester-city/16938774
 DURATION:PT2H
 DTSTART:20261124T200000Z
-SUMMARY:🌟⚽ [UEFA Champions League] Manchester City vs SSC Napoli
+SUMMARY:✅ 🌟⚽ [UEFA Champions League] Manchester City 2-2 SSC Napoli
 UID:sofascore-16938774
 END:VEVENT
 BEGIN:VEVENT
@@ -779,13 +779,6 @@ SUMMARY:✅ ⚽ [Serie A] Venezia 1-0 SSC Napoli
 UID:sofascore-16285047
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Competition: Serie A\nFinal score: 0-1\nhttps://www.sofascore.com/cagliari-napoli/13981717
-DURATION:PT2H
-DTSTART:20260320T173000Z
-SUMMARY:✅ ⚽ [Serie A] Cagliari 0-1 SSC Napoli
-UID:sofascore-13981717
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Competition: Int. Friendly Games\nFinal score: 45-0\nhttps://www.sofascore.com/italy-south-africa/14127717
 DURATION:PT2H
 DTSTART:20250712T151000Z
@@ -812,6 +805,13 @@ DURATION:PT2H
 DTSTART:20240712T023000Z
 SUMMARY:✅ 🏉 [Int. Friendly Games] Tonga 14-36 Italy
 UID:sofascore-12523039
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Competition: Serie A\nMatch: SSC Napoli vs Atalanta\nhttps://www.sofascore.com/ssc-napoli-atalanta/16285287
+DURATION:PT2H
+DTSTART:20270530T130000Z
+SUMMARY:⚽ [Serie A] SSC Napoli vs Atalanta
+UID:sofascore-16285287
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Competition: Lega A Basket\nMatch: Pallacanestro Trieste vs Napoli Basket\nhttps://www.sofascore.com/guerri-napoli-basketball-pallacanestro-trieste/16722708
